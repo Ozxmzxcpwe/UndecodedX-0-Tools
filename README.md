@@ -5,4 +5,8 @@
 
 
 **Creditos**
-- Esta tools fue creada por 2hx__ - .livv y jzxzn - iOnly - hile
+- Esta tools fue creada por: 
+
+Autor 1 :  jzxzn - iOnly - hile
+
+Autor 2 : .livv - 2hx__
